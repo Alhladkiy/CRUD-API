@@ -1,0 +1,45 @@
+[
+    {
+      "id": "62ae2d11fa43297ca01898bd",
+      "username ": "Amie English",
+      "age": 40,
+      "hobbies": ["football", "motocross"]
+    },
+    {
+      "id": "62ae2d11c239201951b8df76",
+      "username ": "Lawson Blackburn",
+      "age": 39,
+      "hobbies": ["football", "motocross"]
+
+    },
+    {
+      "id": "62ae2d111972f999d2dd1600",
+      "username ": "Debbie Graves",
+      "age": 23,
+      "hobbies": []
+    },
+    {
+      "id": "62ae2d11bb800641a252b86b",
+      "username ": "Odessa Pennington",
+      "age": 36,
+      "hobbies": ["cross"]
+    },
+    {
+      "id": "62ae2d11776247707661f620",
+      "age": 21,
+      "username ": "Pope Fitzpatrick",
+      "hobbies": ["volleyball", "basketball"]
+    },
+    {
+      "id": "62ae2d1172e73745de44b07a",
+      "username ": "Rivers Wooten",
+      "age": 38,
+      "hobbies": ["chess", "bike", "auto"]
+    },
+    {
+      "id": "62ae2d11a3448f94a7f52f17",
+      "username ": "Kathleen Burke",
+      "age": 26,
+      "hobbies": ["chess", "bike", "auto"]
+    }
+  ]
