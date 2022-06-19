@@ -10,8 +10,8 @@ function showUsers() {
 
 function showUser(id) {
     return new Promise((resolve, reject) => {
-        const user = users.find((item) => item.id = id)
-        resolve(user)
+        const user = users.find((item) => item.id === id)
+        resolve(user);
     })
 }
 

@@ -15,7 +15,7 @@ async function getUser(req, res, id) {
     try  {
         const user = await User.showUser(id);
         if (!user) {
-            res.writeHead(400, {'Content-Type': 'application/json'});
+            res.writeHead(404, {'Content-Type': 'application/json'});
             res.end(JSON.stringify({
                 message: 'Users not found'
             }));
