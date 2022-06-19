@@ -3,4 +3,8 @@
 
 - npm install;
 - port localhost:3000;
-- to get all users you need open postman and choose method get with url  localhost:3000/api/users
+- command for start script in package.json
+- to get all users you need open postman and choose method get with url localhost:3000/api/users
+- to get single user you need open postman and choose method get with url localhost:3000/api/users/{userId}
+- to delete single user you need open postman and choose method delete with url localhost:3000/api/users/{userId}
+
